@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         // comment
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //
+    }
 
 
 }
